@@ -1,0 +1,10 @@
+package com.atguigu.springcloud.dao.imp;
+
+import org.springframework.stereotype.Service;
+
+import com.atguigu.springcloud.dao.DeptDao;
+
+@Service
+public class DeptDaoImp implements DeptDao{
+
+}
