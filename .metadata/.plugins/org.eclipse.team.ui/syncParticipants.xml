@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<syncparticipants>
+<participant displayName="Git (microservicec...l-gateway-9527)" id="org.eclipse.egit.ui.modelCompareParticipant" secondary_id="1544437655670">
+<data forceFetch="false" root="false">
+<org.eclipse.team.ui.MODEL_PARTICIPANT_SETTINGS org.eclipse.team.ui.MODEL_PARTICIPANT_DESCRIPTION="microservicec...l-gateway-9527" startupAction="none">
+<org.eclipse.team.ui.MODEL_PARTICIPANT_REFRESH_SCHEDULE org.eclipse.team.ui.CTX_REFRESHSCHEDULE_ENABLED="false" org.eclipse.team.ui.CTX_REFRESHSCHEDULE_INTERVAL="3600" org.eclipse.team.ui.CTX_REFRESHSCHEDULE_RUNONCE="false"/>
+<org.eclipse.team.ui.MODEL_PARTICIPANT_MAPPINGS modelProviderId="org.eclipse.core.resources.modelProvider">
+<mappings>
+<resources resourcePath="/microservicecloud-config-dept-client-8001" resourceType="4"/>
+<resources resourcePath="/microservicecloud-eureka-7002" resourceType="4"/>
+<resources resourcePath="/microservicecloud-provider-dept-8001" resourceType="4"/>
+<resources resourcePath="/microservicecloud-config-3344" resourceType="4"/>
+<resources resourcePath="/microservicecloud-config-client-3355" resourceType="4"/>
+<resources resourcePath="/microservicecloud-provider-dept-hystrix-8001" resourceType="4"/>
+<resources resourcePath="/microservicecloud-zuul-gateway-9527" resourceType="4"/>
+<resources resourcePath="/microservicecloud-api" resourceType="4"/>
+<resources resourcePath="/microservicecloud" resourceType="4"/>
+<resources resourcePath="/microservicecloud-eureka-7001" resourceType="4"/>
+<resources resourcePath="/microservicecloud-consumer-dept-80" resourceType="4"/>
+<resources resourcePath="/microservicecloud-consumer-dept-feign" resourceType="4"/>
+<resources resourcePath="/microservicecloud-config-eureka-client-7001" resourceType="4"/>
+<resources resourcePath="/microservicecloud-consumer-hystrix-dashboard" resourceType="4"/>
+<resources resourcePath="/microservicecloud-provider-dept-8003" resourceType="4"/>
+<resources resourcePath="/microservicecloud-eureka-7003" resourceType="4"/>
+<resources resourcePath="/microservicecloud-provider-dept-8002" resourceType="4"/>
+</mappings>
+</org.eclipse.team.ui.MODEL_PARTICIPANT_MAPPINGS>
+</org.eclipse.team.ui.MODEL_PARTICIPANT_SETTINGS>
+<gitSynchronizeData container="F:/Eclipse_SpringCloud/microservicecloud" dstRev="refs/remotes/origin/master" inludeLocal="true" srcRev="HEAD"/>
+</data>
+</participant>
+</syncparticipants>
